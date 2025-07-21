@@ -1,12 +1,5 @@
-## Hi there 👋
+## Pitagorici
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+> "L’uomo di scienza non studia la natura perché ciò è utile; la studia perché ci prova gusto, e ci prova gusto perché la natura è bella. Chi lavora soltanto in vista di applicazioni immediate non lascia niente dietro di sé"
+> 
+> · H. Poincaré, _Il valore della scienza_, 1907
